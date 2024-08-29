@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.cabeçalho{
+    background-color: #6c191a;
+}
+
+.titulo{
+    color: white;
+}
+
+.principal-img{
+    width: 5%;
+}
+
+.pagina{
+    background-color: #f0e8db;
+}
+
+.texto-pagina{
+    background-color: #f0e8db;
+}
+
+.texto-pagina-2{
+    background-color: #f0e8db;
+}
+
+.texto-pagina-3{
+    background-color: #f0e8db;
+}
+
+.marketing{
+    width: 10%;
+}
+
+.texto-pagina-4{
+    background-color: #f0e8db;
+}
+
+.tabela{
+    width: 50%;
+}
+
+.texto-pagina-5{
+    background-color: #f0e8db;
+}
+
+.equipe{
+    width: 25%;
+}
+
+.rodape{
+  background-color: #6c191a;  
+}
+
+.dados-1{
+color: white;
+}
+
+.dados-2{
+color: white;
+}
