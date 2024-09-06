@@ -7,8 +7,20 @@
     background-color: #6c191a;
 }
 
+.cursos{
+    color:white
+}
+
+.franqueado{
+    color:white
+}
+
+.quem-somos{
+    color:white
+}
+
 .titulo{
-    color: white;
+     color: white;
 }
 
 .principal-img{
@@ -17,42 +29,78 @@
 
 .pagina{
     background-color: #f0e8db;
+    padding: 10px 15px;
+    font-size: 18px;
 }
 
 .texto-pagina{
     background-color: #f0e8db;
+    padding: 10px 45px;
+    font-size: 18px;
 }
 
 .texto-pagina-2{
     background-color: #f0e8db;
+    padding: 10px 45px;
+    font-size: 18px;
 }
 
 .texto-pagina-3{
     background-color: #f0e8db;
+    padding: 10px 45px;
+    font-size: 18px;
 }
 
 .marketing{
-    width: 10%;
+    width: 12%;
+    padding: 10px 1090px;
+}
+
+.margem{
+    padding: 10px 15px;
+}
+
+.pagina-2{
+    background-color: #f0e8db;
+    padding: 10px 15px;
+    font-size: 18px;
 }
 
 .texto-pagina-4{
     background-color: #f0e8db;
+    padding: 10px 45px;
+}
+
+.frase{
+    color: rgb(201, 23, 23);
 }
 
 .tabela{
-    width: 50%;
+    width: 45%;
+    padding: 10px 0;
+}
+
+.pagina-3{
+    background-color: #f0e8db;
+    padding: 10px 15px;
+    font-size: 18px;
 }
 
 .texto-pagina-5{
     background-color: #f0e8db;
+    padding: 20px 45px;
+    font-size: 18px;
 }
 
 .equipe{
-    width: 25%;
+    width: 30%;
+    padding: 10px 800px;
 }
 
 .rodape{
-  background-color: #6c191a;  
+  background-color: #6c191a;
+  padding: 15px 20px;  
+  font-size: 18px;
 }
 
 .dados-1{
