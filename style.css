@@ -5,6 +5,10 @@
 
 .cabeçalho{
     background-color: #6c191a;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px 0;
 }
 
 .cursos{
